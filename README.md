@@ -1,4 +1,4 @@
 # Car-Crash-Game
-A simple game made using Java by OOP concepts.
+A simple game made using Java OOP concepts.
 
 This game is the copy of Pappu Pakia Game which is made using HTML, CSS, Javascript.
